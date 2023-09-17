@@ -1,3 +1,3 @@
-## pdfreader.py
+## PDFreader.py
 
 A simple pdf reader using Python
